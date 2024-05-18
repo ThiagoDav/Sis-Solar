@@ -5,7 +5,7 @@
 
 ### Bem-vindo ao Projeto do Sistema Solar!
 
-Este projeto é uma aplicação web que foi inspirada em conteudos do arsenal do site codepen.io desenvolvida para a atividade do 2º Bimestre [Trabalho 4] - CSS Avançado
+Este projeto é uma aplicação web que foi inspirada em conteudos do arsenal do site codepen.io desenvolvida para a atividade do 2º Bimestre [Trabalho 4] - CSS Avançado.
 
 #### Objetivo:
 
@@ -16,7 +16,7 @@ Modificar animações já existem será válido desde que as alteração sejam b
 
 #### Projeto:
 
-O projeto se trata da animacao do sistema solar, utilizando as linguagens HTML para estruturacao do site, CSS para o design, com a insercao do framework Animate, e Json para transmitir a estrutura dos dados
+O projeto se trata da animacao do sistema solar, utilizando as linguagens HTML para estruturacao do site, CSS para o design, com a insercao do framework Animate, e Json para transmitir a estrutura dos dados.
 
 #### Link Codepen:
 
